@@ -5,8 +5,7 @@ import Woman from "./Woman";
 import Men from "./Men";
 import Form from "./Form";
 import Hooks from "./Hooks";
-import Test from "./Test";
-import Test2 from "./Test2";
+
 
 import {Route,Switch} from "react-router-dom"
 function App() {
@@ -19,6 +18,7 @@ function App() {
    <Route exact path="/men" component={Men}/> 
    <Route exact path="/form" component={Form}/>
    <Route exact path="/hooks" component={Hooks}/>
+   <Route component={Home}/>
      </Switch>
   </>
   );

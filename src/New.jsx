@@ -97,31 +97,31 @@ Mens So Mario T-Shirt</p>
     <br/><br/><br/>
     <div className="card-group">
        
-        <div class="card">
-            <div class="card-body text-center bg-dark text-white">
+        <div className="card">
+            <div className="card-body text-center bg-dark text-white">
                <h3>T SHOP</h3>
                <p>info@Shlok.com</p>
                <p>Tel: 123-456-7890</p> 
             </div>
         </div> 
-        <div class="card">
-            <div class="card-body text-center">
+        <div className="card">
+            <div className="card-body text-center">
                 <h3> Shop</h3>
                 <p>New</p>
                 <p>Woman</p>
                 <p>Men</p>
             </div>
         </div>
-         <div class="card">
-            <div class="card-body text-center">
+         <div className="card">
+            <div className="card-body text-center">
                <h3> Our Store</h3>
                <p>About Us</p>
                 <p>Subscribe</p>
                 <p>FAQ</p> 
             </div>
         </div>
-        <div class="card">
-            <div class="card-body text-center">
+        <div className="card">
+            <div className="card-body text-center">
                <h3> Terms & Conditons</h3>
                <p>Store Policy</p>
                 <p>Shopping & Returns</p>
